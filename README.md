@@ -1,5 +1,5 @@
 
-# KooDog机场官方地址(2026年9月24日更新)
+# KooDog酷狗机场官方地址(2026年9月24日更新)
 KooDog机场官网地址</br>
 官方地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
 
@@ -86,6 +86,8 @@ KooDog 的主要优势是价格亲民、套餐选择灵活，入门成本较低�
 > ℹ️ 转结有效期为**次月**，更早月份的转结流量会到期失效；实际以系统结算为准，如有调整，以站内公告为准。
 
 ## Emby 指南
+![image](https://github.com/jdnei/koodog/blob/main/koodog/094352780934TGemby.jpg?raw=ture)</br>  
+![image](https://github.com/jdnei/koodog/blob/main/koodog/892317494emby.jpg?raw=ture)</br>  
 ### 🎬 @GreatEmby_bot｜Emby 管理机器人 & 播放器推荐
 
 ### 🤖 机器人使用指南
