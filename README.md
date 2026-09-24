@@ -1,7 +1,7 @@
 
 # KooDog机场官方地址(2026年9月24日更新)
 KooDog机场官网地址</br>
-官方地址：[www.kdcloud.uk](https://www.kdcloud.uk/#/register?code=Q67JjGjy)</br>
+官方地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
 
 2026最新好用的机场推荐与节点分享：[https://github.com/jdnei/JiChangTuiJian](https://github.com/jdnei/JiChangTuiJian)</br>
 ## Telegram VPN 机场福利社 #AD
