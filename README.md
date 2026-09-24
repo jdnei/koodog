@@ -20,8 +20,8 @@ KooDog 的主要优势是价格亲民、套餐选择灵活，入门成本较低�
 ## 套餐
 ## 📊 性能实测与分析
 #### 1.晚高峰测速表现
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/koodog/blob/main/koodog/908092348502speed.jpeg?raw=ture)</br>
 #### 2.流媒体解锁报告
-![image](?raw=ture)</br>  
+![image](https://github.com/jdnei/koodog/blob/main/koodog/49520934850test.png?raw=ture)</br>  
 #### 3.落地入口分析
-![image](?raw=ture)</br>
+![image](https://github.com/jdnei/koodog/blob/main/koodog/04932859048502ana.jpeg?raw=ture)</br>
