@@ -1,5 +1,5 @@
 
-# KooDog酷狗机场官方地址(2026年9月24日更新)
+# KooDog酷狗机场官方地址(2026年10月9日更新)
 KooDog酷狗机场官网地址</br>
 官方地址：[www.kdcloud.uk](https://to.iix.im/kg01)</br>
 
