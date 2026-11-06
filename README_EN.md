@@ -1,6 +1,6 @@
 🇨🇳 [中文](README.md) | 🇺🇸 English | 🇷🇺 [Русский](README_RU.md) | 🇮🇷 [فارسی](README_FA.md)
 
-# KooDog VPN Official Website (Updated November 5, 2026)
+# KooDog VPN Official Website (Updated November 6, 2026)
 
 KooDog VPN Official Website<br>
 Official Website: [www.kdcloud.uk](https://to.iix.im/kg01)<br>
